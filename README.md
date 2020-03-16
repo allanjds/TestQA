@@ -8,5 +8,7 @@ Tem como objetivo criar uma funcionalidade para consultar e validar os dados de 
 
 Este é um projeto **Maven**, que foi desenvolvido no **Eclipse IDE for Java Developers Version: 2019-12 (4.14.0)** e implementado com **Cucumber + Java.**
 
-  
+
+Comando para execução do teste: ``` mvn test ```
+
 # 
